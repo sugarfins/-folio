@@ -15,10 +15,9 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 <div class="col three caption">
 	A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all. 
 </div>
-<div class="img_row">
-	<img class="col two" src="/img/8.jpg">
-	<img class="col one" src="/img/10.jpg">
-</div>
+
+![test](/img/8.jpg)
+![test2](/img/10.jpg)
 
 Slow-carb four dollar toast Helvetica pop-up. Kale chips next level literally trust fund Pitchfork. Jean shorts Pinterest beard, farm-to-table irony craft beer swag tofu 8-bit Banksy. Quinoa forage fanny pack, pug hashtag Echo Park heirloom Schlitz tote bag artisan Neutra mumblecore 90's shabby chic raw denim.
 
