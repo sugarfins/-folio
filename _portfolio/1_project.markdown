@@ -2,7 +2,7 @@
 layout: post
 title: Localization in Godot
 description: 'Evol' and the challenges of JSON files
-img: /img/godot_thumb.jpg
+img: /img/godot_thumb.png
 ---
 
 
