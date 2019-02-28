@@ -9,20 +9,13 @@ img: /img/godot_thumb.png
 
 ### Localizing in the Godot game engine - 'Evol' and the challenges of JSON files
 <br>
-<br>
-<br>
 #### Introduction
-<br>
-<br>
-<br>
+
 For my final project for my Software and Games Localization course, two of my colleagues and I worked together and chose to try something new and localize a game in an engine we did not learn about in class.
 <br>
-<br>
-<br>
+
 #### Background - The Godot Engine and Evol
-<br>
-<br>
-<br>
+
 <div class="img_row">
   <img class="col three" src="/img/godot_01.png">
 </div>
