@@ -8,23 +8,28 @@ img: /img/godot_thumb.png
 
 
 ### Localizing in the Godot game engine - 'Evol' and the challenges of JSON files
-
-
+<br>
+<br>
+<br>
 #### Introduction
-
-
+<br>
+<br>
+<br>
 For my final project for my Software and Games Localization course, two of my colleagues and I worked together and chose to try something new and localize a game in an engine we did not learn about in class.
- 
-
+<br>
+<br>
+<br>
 #### Background - The Godot Engine and Evol
-
-
+<br>
+<br>
+<br>
 <div class="img_row">
   <img class="col three" src="/img/godot_01.png">
 </div>
 <div class="col three caption">
 Screenshot of the game localized into Japanese
 </div>
+
 For our project, we chose to localize a game called [Evol](https://rustymonky.itch.io/evol), a name which can be interpreted two ways: one is that it is short for "evolution", and the second interpretation is it can be pronounced similar to 'evil', indicative of what your character must to do in order to survive. The general gist of the game is similar to Pokemon, in which your character travels around a field looking for monsters to fight and consume in order to become stronger and eventually evolve. Previously, we learned one method to localize in the Unity game engine; however, Evol was created using the [Godot game engine](http://godotengine.org/).
 
 Although Evol was created in a game engine we had not learned before, what drew me to go for it and to try learning the engine was that Godot has built-inlocalization functions. Additionally, Godot is open source and works on Windows, Mac, *and* even Linux! Thus, although we would have to learn how to navigate a new software, we assumed at least the localization process would be relatively straight-forward. This was a naive assumption to make.
