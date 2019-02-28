@@ -6,13 +6,17 @@ img: /img/12.jpg
 ---
 
 
-# Localizing in the Godot game engine - 'Evol' and the Challenges of JSON files
+## Localizing in the Godot game engine - 'Evol' and the challenges of JSON files
+
 
 ### Introduction
 
+
 For my final project for my Software and Games Localization course, two of my colleagues and I worked together and chose to try something new and localize a game in an engine we did not learn about in class.
  
+
 ### Background - The Godot Engine and Evol
+
 
 <div class="img_row">
   <img class="col three" src="/img/godot_01.png">
@@ -75,6 +79,8 @@ Lastly, the font used in-game was also not compatible with CJK texts. We had to 
 For more information about these challenges, please see my colleague [Hanna Nowicki's post](https://sites.miis.edu/hnowicki/2018/12/12/game-localization-in-godot/), or you can watch our presentation linked below.
  
 Our presentation video: [here](https://drive.google.com/file/d/1gVtlONpEEFVIKs4OwzXFYvkY-QHGEQeI/view?usp=sharing)
+
 Our finalized project files: [here](https://drive.google.com/open?id=140iWacdczgqKfvckQXuixx-TTd4fOuBs)
+
 Evol's original game files: [here](https://github.com/RustyMonky/Evol)
 
