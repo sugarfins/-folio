@@ -1,3 +1,11 @@
+---
+layout: post
+title: Localization in Godot
+description: a project with a background image
+img: /img/12.jpg
+---
+
+
 #Localizing in the Godot game engine - 'Evol' and the Challenges of JSON files
 
 ###Introduction
