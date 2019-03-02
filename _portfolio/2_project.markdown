@@ -16,13 +16,11 @@ I had previously worked as a translator and subtitler(timing/QA) for Chinese TV 
 ## Preparation
 
 ### Tools
-For this project, I used
-<ul>
-<li>Aegisub, a subtitling program</li>
-<li>Youtube and video ripping sites to download a copy of the music video  
-The music video used: [Zenzenzense by Radwimps](https://www.youtube.com/watch?v=PDSkFeMVNFs)</li>
-<li>FFMPEG (via the command prompt) in order to hardsub my subtitle file</li>
-</ul>
+
+* Aegisub, a subtitling program
+* Youtube and video ripping sites to download a copy of the music video
+  * the music video used: [Zenzenzense by Radwimps](https://www.youtube.com/watch?v=PDSkFeMVNFs)
+* FFMPEG (via the command prompt) in order to hardsub my subtitle file
  
 ### Unexpected Challenges
 
@@ -32,7 +30,7 @@ Right at the beginning of the project, I ran into a slight problem. A site I usu
 ### Learning Aegisub’s style code
 
 Previously, I had only worked with plain SRT files when doing subtitles, and any effects were added after my step in QA. Thus, one of the first things I taught myself was how to read the styling code in Aegisub. This mostly consisted of copying and pasting some styling code from other subtitle files I had and tinkering with the code. Later on, I learned how to implement a set style template so I would not need to write the style code in line by line, but working with the code initially acclimated me to how code in Aegisub was written.
-One particular aspect I had to look up to implement was how to turn text vertical, but in a way that could be read down, not sideways. Interestingly, this is easily done in the styling code by adding a {\fn@} to the beginning of the line. This allowed me to put my Japanese text down the right-hand side of the screen.
+One particular aspect I had to look up to implement was how to turn text vertical, but in a way that could be read down, not sideways. Interestingly, this is easily done in the styling code by adding a \{\\fn@\} to the beginning of the line. This allowed me to put my Japanese text down the right-hand side of the screen.
 
 ![Vertical Japanese lyrics and Aegisub styling code](/img/aegisub_01.png)
 <div class = "col three caption">Here you can see some examples of the styling code in Aegisub, including font-type, size, border color, and position</div>
