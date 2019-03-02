@@ -32,25 +32,35 @@ Right at the beginning of the project, I ran into a slight problem. A site I usu
 Previously, I had only worked with plain SRT files when doing subtitles, and any effects were added after my step in QA. Thus, one of the first things I taught myself was how to read the styling code in Aegisub. This mostly consisted of copying and pasting some styling code from other subtitle files I had and tinkering with the code. Later on, I learned how to implement a set style template so I would not need to write the style code in line by line, but working with the code initially acclimated me to how code in Aegisub was written.
 One particular aspect I had to look up to implement was how to turn text vertical, but in a way that could be read down, not sideways. Interestingly, this is easily done in the styling code by adding a \{\\fn@\} to the beginning of the line. This allowed me to put my Japanese text down the right-hand side of the screen.
 
-![Vertical Japanese lyrics and Aegisub styling code](/img/aegisub_01.png)
+<div class="img_row">
+  <img class="col three" src="/img/aegisub_01.png">
+</div>
 <div class = "col three caption">Here you can see some examples of the styling code in Aegisub, including font-type, size, border color, and position</div>
 
 ### Learning Aegisub’s karaoke function
 
 In my experience, the majority of people who use Aegisub used it for subtitling Asian TV shows, whether they be live action dramas or Japanese animation. These shows typically have both an opening and ending song, and thus there was a large market for the ability to code in karaoke effects. Thankfully, Aegisub has a karaoke function button built right into their application, which makes simple karaoke effects very simple to implement.
 
-![Karaoke button in Aegisub](/img/aegisub_02.png)
+
+<div class="img_row">
+  <img class="col three" src="/img/aegisub_02.png">
+</div>
 
 Once you have selected the karaoke function button for a line, you can easily split up the text as you like, whether by syllables, characters, or words: Doing so will also create corresponding lines in the waveform, which you can listen to and move to correspond correctly with your sectioned text.
 
-![Sectioned syllables](/img/aegisub_03.png)
+<div class="img_row">
+  <img class="col three" src="/img/aegisub_03.png">
+</div>
 
-![Sectioned audio in the waveform](/img/aegisub_04.png)
+<div class="img_row">
+  <img class="col three" src="/img/aegisub_04.png">
+</div>
 
 Once the text and corresponding audio is sectioned to your liking, simply click the checkmark and Aegisub will insert the necessary code to implement karaoke effects into the line:
 
-![Karaoke code implemented](/img/aegisub_05.png)
-
+<div class="img_row">
+  <img class="col three" src="/img/aegisub_05.png">
+</div>
 <div class="col three caption">Cool, right? And very simple to use
 </div>
 
@@ -58,11 +68,17 @@ Once the text and corresponding audio is sectioned to your liking, simply click 
 
 If you wanted to implement other more complicated and visually interesting karaoke effects, this took a bit more work. The more intricate karaoke effects required knowledge of a programming language called Lua. For the amount of time I had, I did not learn how to write Lua code, but was able to implement it in my video using other people’s templates as a guide.
 
-![Advanced karaoke effects code](/img/aegisub_06.png)
+
+<div class="img_row">
+  <img class="col three" src="/img/aegisub_06.png">
+</div>
 
 What you see highlighted at the top of the subtitle file is some lua code pasted from a karaoke effects template. Additionally, multiple styles can exist in a single file, thus I was able to apply the code to only the romanized Japanese lyrics and implement a different karaoke style for the Japanese text. When implementing intricate karaoke styles, you end up with many more lines of code at the bottom of your file, as seen here:
 
-![Karaoke button in Aegisub](/img/aegisub_07.png)
+
+<div class="img_row">
+  <img class="col three" src="/img/aegisub_07.png">
+</div>
 
 Certainly, this can seem daunting, but the implementation of styles is fairly straightforward.
 
@@ -72,7 +88,9 @@ Certainly, this can seem daunting, but the implementation of styles is fairly st
 
 Once I finished my subtitle file, I ran into an unexpected problem. Handbrake, a simple program we had been using during the course to burn the subtitle files into a video, did not support .ASS files, only .SRT files. Thus, I went through trying about 5 different programs and tricks to find another suitable program to burn my subtitle file into the video. After 3 hours and many unsatisfactory video files later, I ended up implementing FFMPEG to burn my video file through the command prompt (since Handbrake is really just a nice UI for FFMPEG).
 
-![FFMPEG in the command prompt](/img/aegisub_08.png)
+<div class="img_row">
+  <img class="col three" src="/img/aegisub_08.png">
+</div>
 
 ### The Final Product
 
