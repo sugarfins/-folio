@@ -65,7 +65,7 @@ NOV 2012 – MAY 2013 | Concord, California
 
 **Volunteer Mandarin Chinese to English Translator**  
 HZGG Fansubs  
-JAN 2007 – MAR 2009
+JAN 2007 – MAR 2009  
 <small>Translated Princess Returning Pearl, a Chinese period drama</small>
 
 **Mandarin Chinese to English Translator**  
