@@ -36,3 +36,15 @@ JAN 2010 – JUL 2010 | Tsuru City, Yamanashi Prefecture, Japan
 
 **Japanese Language Proficiency Test Certification - Level N2**  
 DEC 2010
+
+#### Experience
+
+**Associate Localization Manager, Intern**  
+SDL, plc.  
+JUN 2018 – SEP 2018 | San Jose, California  
+* Managed marketing and software localization projects in up to 21 locales end-to-end on tight schedules with as little as 24 hours turnaround 
+* Communicated between international teams of translators, engineers, QA testers, and DTP & A/V specialists to ensure high quality deliverables 
+* Updated and maintained translation memories and termbases 
+* Monitored budgets, created and managed quotes and purchase order amounts 
+* Created graphs and charts to demonstrate project success for a QBR presentation 
+
