@@ -72,3 +72,21 @@ JAN 2007 – MAR 2009
 Sublimes Fansubbing  
 NOV 2006 – JAN 2009  
 <small>Completed translations for 4 modern Taiwanese dramas for subtitled release within 1 week</small>
+
+#### Leadership
+
+**President**  
+MIIS Japan Forum  
+AUG 2017 – PRESENT | Monterey, California  
+<small>Organize events for cultural and language exchange for MIIS students</small>
+
+**Japanese Liaison / Treasurer**  
+Nara AJET Council  
+MAY 2015 – MAY 2016 | Nara Prefecture, Japan  
+* <small>Communicated between local businesses, Japanese festival organizers, and JET participants</small>
+* <small>Managed the AJET budget and bank account (containing over 200,000 yen)</small>
+
+**Coordinator**  
+UCLA Japan-America Language & Culture Exchange Club  
+JAN 2008 – DEC 2009 | Los Angeles, California  
+<small>Created interesting, engaging English and Japanese language activities for weekly meetings</small>
