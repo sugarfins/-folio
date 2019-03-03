@@ -24,3 +24,15 @@ AUG 2017 – MAY 2019 (EXPECTED) | Monterey, California
 JET Programme Translation & Interpretation Course  
 SEP 2015 – MAR 2016 | Japan  
 <small>Six month online correspondence course; one-week seminar in Shiga Prefecture</small>
+
+**Bachelor of Arts: Linguistics & Asian Languages and Cultures**  
+University of California, Los Angeles  
+SEP 2007 – MAR 2012 | Los Angeles, California  
+<small>Dean’s Honor List: December 2008, March 2009</small>
+
+**UCEAP Study Abroad**  
+Tsuru University  
+JAN 2010 – JUL 2010 | Tsuru City, Yamanashi Prefecture, Japan
+
+**Japanese Language Proficiency Test Certification - Level N2**  
+DEC 2010
