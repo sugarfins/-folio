@@ -42,9 +42,33 @@ DEC 2010
 **Associate Localization Manager, Intern**  
 SDL, plc.  
 JUN 2018 – SEP 2018 | San Jose, California  
-* Managed marketing and software localization projects in up to 21 locales end-to-end on tight schedules with as little as 24 hours turnaround 
-* Communicated between international teams of translators, engineers, QA testers, and DTP & A/V specialists to ensure high quality deliverables 
-* Updated and maintained translation memories and termbases 
-* Monitored budgets, created and managed quotes and purchase order amounts 
-* Created graphs and charts to demonstrate project success for a QBR presentation 
+* <small>Managed marketing and software localization projects in up to 21 locales end-to-end on tight schedules with as little as 24 hours turnaround</small>
+* <small>Communicated between international teams of translators, engineers, QA testers, and DTP & A/V specialists to ensure high quality deliverables</small>
+* <small>Updated and maintained translation memories and termbases</small>
+* <small>Monitored budgets, created and managed quotes and purchase order amounts</small>
+* <small>Created graphs and charts to demonstrate project success for a QBR presentation</small>
 
+**English Teacher**  
+Uda City of Board of Education; Japan Exchange & Teaching (JET) Programme  
+AUG 2013 – AUG 2016 | Uda City, Nara Prefecture, Japan  
+* <small>Taught with 6 Japanese English teachers: 18 lessons/week to 520 students in 2 middle schools; independently taught English conversation classes to 25 adults</small>
+* <small>Engaged 500 elementary school students in 4 elementary schools with original English lessons </small>
+* <small>Coached over 40 students participating in city and prefectural English speech contests, including first place winners of the Uda City English Speech Contest 3 years in a row</small>
+* <small>Participated in prefecture outreach English events (JETNET) – performed in musical, hosted cultural booths, and presented about Chinese New Year to multinational audience in Japanese/Chinese/English</small>
+* <small>Wrote a bi-monthly Japanese column in the local city newspaper</small>
+
+**Representative/Bilingual Inventory Clerk**  
+Toyslogic LLC.  
+NOV 2012 – MAY 2013 | Concord, California  
+* <small>Translated original product information from Japanese into English for online shop</small>
+* <small>Corresponded with Japanese companies on brand sale rights and product distribution</small>
+
+**Volunteer Mandarin Chinese to English Translator**  
+HZGG Fansubs  
+JAN 2007 – MAR 2009
+<small>Translated Princess Returning Pearl, a Chinese period drama</small>
+
+**Mandarin Chinese to English Translator**  
+Sublimes Fansubbing  
+NOV 2006 – JAN 2009  
+<small>Completed translations for 4 modern Taiwanese dramas for subtitled release within 1 week</small>
