@@ -2,54 +2,24 @@
 layout: post
 title: Project
 description: a project with a background image
-img: /img/1.jpg
+img: /img/introToCAT_thumbnail.png
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+### Introduction and an Overview
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+In my first semester at the Middlebury Institute of International Studies, one of my courses was an introductory course in computer-assisted translation (CAT) tools. Over the course of the semester, I learned how to utilize SDL Trados, knowledge which I applied in my final project.
+For my final project, I worked in a group to localize a simplified version of the [Boba Guys](http://www.bobaguys.com/) (\**the website has since changed in layout*) website into Simplified Chinese, with the help of SDL Trados and other tools, including TeamWeek and Squarespace.
 
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+One of the main takeaways from this experience was learning how to manipulate the file type filters in Trados, specifically the HTML file type filter, to pull translatable content from a website.
 
+Additionally, it was heartening to see that Squarespace *was* as simple to use as they proclaimed, and creating a mock website as well as the localized version did not take a long amount of time.
 
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
+### Included in the Project Folder
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+There are 4 main categories to the project files:
+* *Project Proposal and Goals:* Included is a Statement of Work that we created at the beginning of our project, clearly outlining our project goals and deliverables.
+* *Website URLs and full website files:* Included in the folder is a document with links to the mock squarespace sites. However, because these sites were built on a trial basis, these urls are now defunct. For this reason, I have included the full website files in downloadable zip files.
+* *SDL Trados and translation files:* These files include the pseudo-translation files created at the beginning of the project, the translated XLIFF files used in Trados, and the translated text from the image files. This also included the termbase and translation memory (TM) that we created at the end of the translation process.
+* *Final Presentation:* This is the file for our final presentation, in which we go in depth about missteps, challenges, and what we learned through the process.
+Please feel free to check out the files [here](https://drive.google.com/drive/folders/1w33BNSht0610WQs4UrKYpSQQFhLsKCT0?usp=sharing).
 
-
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
