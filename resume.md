@@ -4,9 +4,10 @@ permalink: /resume/
 title: My Resume
 ---
 
-\**For a downloadable PDF copy please click [here](sugarfins.github.io/img/Rissa Fung Resume.pdf)*
+\**For a downloadable PDF copy please click [here](http://sugarfins.github.io/img/Rissa Fung Resume.pdf)*
 
 ### Rissa Fung
+**rissafung@gmail.com | (650) 495-2199**
 
 #### Skills
 
