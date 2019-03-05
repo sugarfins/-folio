@@ -9,7 +9,7 @@ permalink: /about/
 <br/>
 I've been language-obsessed since childhood and this has followed me throughout my academic and professional career. I'm currently set to graduate in May 2019 from the Middlebury Institute of International Studies (MIIS) with a MA in Translation and Localization Management. 
 
-In my free time, I like to go hiking, cook and watch cooking shows, and play board games.
+In my free time, I like to go hiking, cook and watch cooking shows, and play board games. I love to travel and eat, and when I'm not at home, I'm most likely in a newly-opened boba shop or coffee shop.
 
 Here you can find write-ups for some [final projects](https://sugarfins.github.io/) I made for various courses during my studies, a few [blogposts](https://sugarfins.github.io/blog/) about things that interest me, and my [resume](https://sugarfins.github.io/resume/).
 
