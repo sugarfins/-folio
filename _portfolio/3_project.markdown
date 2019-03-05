@@ -79,7 +79,7 @@ For the language switcher, we opted to go for a simple link language picker. Bec
 
 With that, the website was fully localized. The final setup of files looks like this.
 <div class="img_row">
-  <img class="col two" src="/img/jekyll_07.png">
+  <img class="col one" src="/img/jekyll_07.png">
 </div>
 
 
