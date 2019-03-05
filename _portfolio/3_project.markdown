@@ -54,7 +54,7 @@ I also added the corresponding Liquid code to the layout HTML file for it to pul
 The code shown above is the part of the code for the menu items. Because of the nature of the layout, the site had a sidebar area with content that also needed to be put into the strings file, making it a little more unwieldy than a site built in Jekyll from the start.
 
 <div class="img_row">
-  <img class="col three" src="/img/jekyll_04.png">
+  <img class="col one" src="/img/jekyll_04.png">
 </div>
 Most importantly, a specific line was added to the header of each .md file.
  
@@ -79,7 +79,7 @@ For the language switcher, we opted to go for a simple link language picker. Bec
 
 With that, the website was fully localized. The final setup of files looks like this.
 <div class="img_row">
-  <img class="col three" src="/img/jekyll_07.png">
+  <img class="col two" src="/img/jekyll_07.png">
 </div>
 
 
