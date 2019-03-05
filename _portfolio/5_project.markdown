@@ -21,5 +21,6 @@ There are 4 main categories to the project files:
 * *Website URLs and full website files:* Included in the folder is a document with links to the mock squarespace sites. However, because these sites were built on a trial basis, these urls are now defunct. For this reason, I have included the full website files in downloadable zip files.
 * *SDL Trados and translation files:* These files include the pseudo-translation files created at the beginning of the project, the translated XLIFF files used in Trados, and the translated text from the image files. This also included the termbase and translation memory (TM) that we created at the end of the translation process.
 * *Final Presentation:* This is the file for our final presentation, in which we go in depth about missteps, challenges, and what we learned through the process.
+
 Please feel free to check out the files [here](https://drive.google.com/drive/folders/1w33BNSht0610WQs4UrKYpSQQFhLsKCT0?usp=sharing).
 
