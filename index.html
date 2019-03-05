@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: portfolio
 ---
 
@@ -11,6 +11,7 @@ title: portfolio
   <br/>
 </div>
 
+<article class="post-content">
 {% for project in site.portfolio %}
 
 {% if project.redirect %}
@@ -52,3 +53,4 @@ title: portfolio
 {% endif %}
 
 {% endfor %}
+</article>
