@@ -23,9 +23,8 @@ Markdown is a formatting language. If you have used Reddit before to post either
 Markdown works in conjunction with Liquid. Liquid is a templating language, which means it is used in conjunction with HTML (in this case) to build a site layout or template. It has a few similar characteristics to Javascript, a programming language I had experience with at the start of this project.
 For both Markdown and Liquid, I did some quick reading and mainly referenced some [cheat](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) [sheets](https://www.shopify.com/partners/shopify-cheat-sheet). Additionally, I utilized Github, because Github allowed me to host a Jekyll site for free. For a text editor I used Atom as it had a plug-in that integrated well with Github.
  
-## Preparation
+## Preparation - Turning a previous site into a Jekyll site
 
-## Turning a previous site into a Jekyll site
 Rather than building a completely new Jekyll site from scratch, I took a static website built previously during the course and turned that into a Jekyll site. I was able to immediately apply my newly-acquired knowledge of Liquid, as I had to modify or adapt some aspects of the static site so that it would function the same in Jekyll. Additionally, each English content page had to have its corresponding Japanese content page, which were stripped of their HTML tags and rewritten into Markdown.
 
 
