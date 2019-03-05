@@ -1,9 +1,10 @@
 ---
 layout: page
 permalink: /resume/
-title: resume
-description: Resume
+title: My Resume
 ---
+
+\**For a downloadable PDF copy please click [here](sugarfins.github.io/img/Rissa Fung Resume.pdf)*
 
 ### Rissa Fung
 
@@ -57,7 +58,7 @@ AUG 2013 – AUG 2016 | Uda City, Nara Prefecture, Japan
 * <small>Participated in prefecture outreach English events (JETNET) – performed in musical, hosted cultural booths, and presented about Chinese New Year to multinational audience in Japanese/Chinese/English</small>
 * <small>Wrote a bi-monthly Japanese column in the local city newspaper</small>
 
-**Representative/Bilingual Inventory Clerk**  
+**Customer Service Representative/Bilingual Inventory Clerk**  
 Toyslogic LLC.  
 NOV 2012 – MAY 2013 | Concord, California  
 * <small>Translated original product information from Japanese into English for online shop</small>
@@ -86,7 +87,7 @@ MAY 2015 – MAY 2016 | Nara Prefecture, Japan
 * <small>Communicated between local businesses, Japanese festival organizers, and JET participants</small>
 * <small>Managed the AJET budget and bank account (containing over 200,000 yen)</small>
 
-**Coordinator**  
+**Culture Coordinator**  
 UCLA Japan-America Language & Culture Exchange Club  
 JAN 2008 – DEC 2009 | Los Angeles, California  
 <small>Created interesting, engaging English and Japanese language activities for weekly meetings</small>
