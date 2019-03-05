@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
+title: SDL Trados and Boba Guys
+description: Localizing a Squarespace website
 img: /img/introToCAT_thumbnail.png
 ---
 
