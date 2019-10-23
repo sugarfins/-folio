@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/profile.jpg">
 
 <br/>
-I've been language-obsessed since childhood and this has followed me throughout my academic and professional career. I'm currently set to graduate in May 2019 from the Middlebury Institute of International Studies (MIIS) with a MA in Translation and Localization Management. 
+I've been language-obsessed since childhood and this has followed me throughout my academic and professional career. I graduated in May 2019 from the Middlebury Institute of International Studies (MIIS) with a MA in Translation and Localization Management. 
 
 In my free time, I like to go hiking, cook and watch cooking shows, and play board games. I love to travel and eat, and when I'm not at home, I'm most likely in a newly-opened boba shop or coffee shop.
 
