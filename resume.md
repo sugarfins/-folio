@@ -9,86 +9,56 @@ title: resume
 ### Rissa Fung
 **rissafung@gmail.com | (650) 495-2199**
 
-#### Skills
 
-**Languages (proficiency):** English (native), Cantonese (native), Japanese (business), Mandarin Chinese (business)  
-**Localization Tools:** SDL Trados/WorldServer/TMS/Passolo, MemoQ, Memsource, Wordfast, XTRF, XTM Cloud  
-**Programming/File types:** HTML, CSS, Javascript, Python, Markdown, Java, PHP, Android, iOS, Unity Engine, Godot Engine, JSON, XML, MP4, PO, EPUB  
-**Applications:** Adobe Acrobat/After Effects/Audition/Illustrator/InDesign/Photoshop, Aegisub, Microsoft Office, Wordpress, Sigil
+**SKILLS**
 
-#### Education & Certification
+**Languages:** English (native), Cantonese (native), Japanese (business), Mandarin Chinese (business)
+**Localization Tools:** SDL Trados/WorldServer/TMS, MemoQ, Memsource, Wordfast, XTRF, XTM
+**Programming/File types:** HTML, CSS, Javascript, Python, Markdown, SQL, Java, PHP, Android, iOS, Unity
+Engine, Godot Engine, JSON, XML, MP4, PO, EPUB
+**Applications:** Adobe After Effects/Illustrator/InDesign/Photoshop, JIRA, Microsoft Office, GitHub, WordPress
 
-**Master of Arts: Translation and Localization Management**  
-Middlebury Institute of International Studies  
-AUG 2017 – MAY 2019 (EXPECTED) | Monterey, California
 
-**Japanese/English Translation & Interpretation**  
-JET Programme Translation & Interpretation Course  
-SEP 2015 – MAR 2016 | Japan  
-<small>Six month online correspondence course; one-week seminar in Shiga Prefecture</small>
+**EXPERIENCE**
 
-**Bachelor of Arts: Linguistics & Asian Languages and Cultures**  
-University of California, Los Angeles  
-SEP 2007 – MAR 2012 | Los Angeles, California  
-<small>Dean’s Honor List: December 2008, March 2009</small>
+**Operations Manager / Software + Media QA** | SEP 2018 – MAY 2019
+Middlebury Institute Globe Multilingual Services | Monterey, California
+* <small>Liaised between multiple teams and professors to troubleshoot and address concerns</small>
+* <small>Created and maintained internal resources and workflow standards for all projects</small>
+* <small>Performed software LQA and media FQA; edited Chinese→English termbase</small>
 
-**UCEAP Study Abroad**  
-Tsuru University  
-JAN 2010 – JUL 2010 | Tsuru City, Yamanashi Prefecture, Japan
+**Associate Localization Manager, Intern** | JUN 2018 – SEP 2018
+SDL, plc. | San Jose, California
+* <small>Oversaw marketing and software localization projects in up to 30 locales end-to-end on tight schedules</small>
+* <small>Communicated with and coordinated international teams of translators, engineers, QA testers, and DTP & A/V specialists to ensure high quality deliverables</small>
+* <small>Managed translation memories and termbases ensuring consistent deliverables</small>
+* <small>Created and managed quotes and purchase orders, ensuring up-to-date budgets</small>
+* <small>Created graphs and charts of KPIs to demonstrate project success for a client QBR presentation</small>
 
-**Japanese Language Proficiency Test Certification - Level N2**  
-DEC 2010
+**English Teacher** | AUG 2013 – AUG 2016
+Uda City of Board of Education; JET Programme | Nara Prefecture, Japan
+* <small>Taught with 6 Japanese English teachers: 18 lessons/week to 520 students in 2 middle schools;
+independently taught English conversation classes to 25 adults</small>
+* <small>Engaged 500 elementary school students in 4 elementary schools with original English lessons</small>
+* <small>Coached over 40 students participating in city and prefectural English speech contests, including first
+place winners of the Uda City English Speech Contest 3 years in a row</small>
+* <small>Participated in local outreach English events (JETNET) – performed in a musical, hosted cultural booths,
+and presented on Chinese New Year to multinational audience in Japanese/Chinese/English</small>
+* <small>Coordinated events and acted as point of contact between local Japanese and JET participants as
+**Japanese Liaison/Treasurer** of Nara AJET Council</small>
 
-#### Experience
 
-**Associate Localization Manager, Intern**  
-SDL, plc.  
-JUN 2018 – SEP 2018 | San Jose, California  
-* <small>Managed marketing and software localization projects in up to 21 locales end-to-end on tight schedules with as little as 24 hours turnaround</small>
-* <small>Communicated between international teams of translators, engineers, QA testers, and DTP & A/V specialists to ensure high quality deliverables</small>
-* <small>Updated and maintained translation memories and termbases</small>
-* <small>Monitored budgets, created and managed quotes and purchase order amounts</small>
-* <small>Created graphs and charts to demonstrate project success for a QBR presentation</small>
+**EDUCATION & CERTIFICATION**
 
-**English Teacher**  
-Uda City of Board of Education; Japan Exchange & Teaching (JET) Programme  
-AUG 2013 – AUG 2016 | Uda City, Nara Prefecture, Japan  
-* <small>Taught with 6 Japanese English teachers: 18 lessons/week to 520 students in 2 middle schools; independently taught English conversation classes to 25 adults</small>
-* <small>Engaged 500 elementary school students in 4 elementary schools with original English lessons </small>
-* <small>Coached over 40 students participating in city and prefectural English speech contests, including first place winners of the Uda City English Speech Contest 3 years in a row</small>
-* <small>Participated in prefecture outreach English events (JETNET) – performed in musical, hosted cultural booths, and presented about Chinese New Year to multinational audience in Japanese/Chinese/English</small>
-* <small>Wrote a bi-monthly Japanese column in the local city newspaper</small>
+**Master of Arts: Translation and Localization Management** | MAY 2019
+Middlebury Institute of International Studies | Monterey, California
+<small>- MIIS Japan Forum: President – Aug 2017 to May 2019</small>
+<small>- LocWorld/Games Global Summit Seattle 2018: Room Manager, Volunteer – Oct 15-19, 2018</small>
 
-**Customer Service Representative/Bilingual Inventory Clerk**  
-Toyslogic LLC.  
-NOV 2012 – MAY 2013 | Concord, California  
-* <small>Translated original product information from Japanese into English for online shop</small>
-* <small>Corresponded with Japanese companies on brand sale rights and product distribution</small>
+**JET Programme Japanese/English Translation & Interpretation Course Certification** | MAR 2016
 
-**Volunteer Mandarin Chinese to English Translator**  
-HZGG Fansubs  
-JAN 2007 – MAR 2009  
-<small>Translated Princess Returning Pearl, a Chinese period drama</small>
+**Bachelor of Arts: Linguistics & Asian Languages and Cultures** | MAR 2012
+University of California, Los Angeles | Los Angeles, California
+<small>- UCLA Japan-America Language & Culture Exchange Club: Meeting Coordinator Jan 2008 to Dec 2009</small>
 
-**Mandarin Chinese to English Translator**  
-Sublimes Fansubbing  
-NOV 2006 – JAN 2009  
-<small>Completed translations for 4 modern Taiwanese dramas for subtitled release within 1 week</small>
-
-#### Leadership
-
-**President**  
-MIIS Japan Forum  
-AUG 2017 – PRESENT | Monterey, California  
-<small>Organize events for cultural and language exchange for MIIS students</small>
-
-**Japanese Liaison / Treasurer**  
-Nara AJET Council  
-MAY 2015 – MAY 2016 | Nara Prefecture, Japan  
-* <small>Communicated between local businesses, Japanese festival organizers, and JET participants</small>
-* <small>Managed the AJET budget and bank account (containing over 200,000 yen)</small>
-
-**Culture Coordinator**  
-UCLA Japan-America Language & Culture Exchange Club  
-JAN 2008 – DEC 2009 | Los Angeles, California  
-<small>Created interesting, engaging English and Japanese language activities for weekly meetings</small>
+**Japanese Language Proficiency Test Certification - Level N2** | DEC 2010
