@@ -12,9 +12,9 @@ title: resume
 
 **SKILLS**
 
-**Languages:** English (native), Cantonese (native), Japanese (business), Mandarin Chinese (business)
-**Localization/Project Management Tools:** Asana, Trello, JIRA, SDL Trados/WorldServer/TMS, MemoQ, Memsource, XTRF, XTM, Workfront
-**Programming/File types:** HTML, CSS, Javascript, Python, Jekyll, Markdown, SQL, Java, PHP, Android, iOS, Unity Engine, Godot Engine, JSON, XML, MP4, PO, EPUB
+**Languages:** English (native), Cantonese (native), Japanese (business), Mandarin Chinese (business)  
+**Localization/Project Management Tools:** Asana, Trello, JIRA, SDL Trados/WorldServer/TMS, MemoQ, Memsource, XTRF, XTM, Workfront  
+**Programming/File types:** HTML, CSS, Javascript, Python, Jekyll, Markdown, SQL, Java, PHP, Android, iOS, Unity Engine, Godot Engine, JSON, XML, MP4, PO, EPUB  
 **Applications:** Adobe After Effects/Illustrator/InDesign/Photoshop, JIRA, Microsoft Office, GitHub, WordPress
 
 
