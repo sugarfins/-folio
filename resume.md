@@ -7,23 +7,23 @@ title: resume
 \**For a downloadable PDF copy please click [here](/img/Rissa Fung Resume.pdf)*
 
 ### Rissa Fung
-**rissafung@gmail.com | (650) 495-2199**
+**rissafung@gmail.com**
 
 
 **SKILLS**
 
 **Languages:** English (native), Cantonese (native), Japanese (business), Mandarin Chinese (business)
-**Localization Tools:** SDL Trados/WorldServer/TMS, MemoQ, Memsource, Wordfast, XTRF, XTM
-**Programming/File types:** HTML, CSS, Javascript, Python, Markdown, SQL, Java, PHP, Android, iOS, Unity
-Engine, Godot Engine, JSON, XML, MP4, PO, EPUB
+**Localization/Project Management Tools:** Asana, Trello, JIRA, SDL Trados/WorldServer/TMS, MemoQ, Memsource, XTRF, XTM, Workfront
+**Programming/File types:** HTML, CSS, Javascript, Python, Jekyll, Markdown, SQL, Java, PHP, Android, iOS, Unity Engine, Godot Engine, JSON, XML, MP4, PO, EPUB
 **Applications:** Adobe After Effects/Illustrator/InDesign/Photoshop, JIRA, Microsoft Office, GitHub, WordPress
 
 
 **EXPERIENCE**
 
-**Operations Manager / Software + Media QA** | SEP 2018 – MAY 2019
+**Project + Operations Manager / Software + Media QA** | SEP 2018 – MAY 2019
 Middlebury Institute Globe Multilingual Services | Monterey, California
-* <small>Liaised between multiple teams and professors to troubleshoot and address concerns</small>
+* <small>Oversaw end-to-end localization of client website and assets</small>
+* <small>Established better streamlined internationalization process for future iterations of the website</small>
 * <small>Created and maintained internal resources and workflow standards for all projects</small>
 * <small>Performed software LQA and media FQA; edited Chinese→English termbase</small>
 
