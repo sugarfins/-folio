@@ -20,14 +20,14 @@ title: resume
 
 **EXPERIENCE**
 
-**Project + Operations Manager / Software + Media QA** | SEP 2018 – MAY 2019
+**Project + Operations Manager / Software + Media QA** | SEP 2018 – MAY 2019  
 Middlebury Institute Globe Multilingual Services | Monterey, California
 * <small>Oversaw end-to-end localization of client website and assets</small>
 * <small>Established better streamlined internationalization process for future iterations of the website</small>
 * <small>Created and maintained internal resources and workflow standards for all projects</small>
 * <small>Performed software LQA and media FQA; edited Chinese→English termbase</small>
 
-**Associate Localization Manager, Intern** | JUN 2018 – SEP 2018
+**Associate Localization Manager, Intern** | JUN 2018 – SEP 2018  
 SDL, plc. | San Jose, California
 * <small>Oversaw marketing and software localization projects in up to 30 locales end-to-end on tight schedules</small>
 * <small>Communicated with and coordinated international teams of translators, engineers, QA testers, and DTP & A/V specialists to ensure high quality deliverables</small>
@@ -35,7 +35,7 @@ SDL, plc. | San Jose, California
 * <small>Created and managed quotes and purchase orders, ensuring up-to-date budgets</small>
 * <small>Created graphs and charts of KPIs to demonstrate project success for a client QBR presentation</small>
 
-**English Teacher** | AUG 2013 – AUG 2016
+**English Teacher** | AUG 2013 – AUG 2016  
 Uda City of Board of Education; JET Programme | Nara Prefecture, Japan
 * <small>Taught with 6 Japanese English teachers: 18 lessons/week to 520 students in 2 middle schools;
 independently taught English conversation classes to 25 adults</small>
@@ -50,14 +50,14 @@ and presented on Chinese New Year to multinational audience in Japanese/Chinese/
 
 **EDUCATION & CERTIFICATION**
 
-**Master of Arts: Translation and Localization Management** | MAY 2019
+**Master of Arts: Translation and Localization Management** | MAY 2019  
 Middlebury Institute of International Studies | Monterey, California
 <small>- MIIS Japan Forum: President – Aug 2017 to May 2019</small>
 <small>- LocWorld/Games Global Summit Seattle 2018: Room Manager, Volunteer – Oct 15-19, 2018</small>
 
 **JET Programme Japanese/English Translation & Interpretation Course Certification** | MAR 2016
 
-**Bachelor of Arts: Linguistics & Asian Languages and Cultures** | MAR 2012
+**Bachelor of Arts: Linguistics & Asian Languages and Cultures** | MAR 2012  
 University of California, Los Angeles | Los Angeles, California
 <small>- UCLA Japan-America Language & Culture Exchange Club: Meeting Coordinator Jan 2008 to Dec 2009</small>
 
